@@ -11,7 +11,9 @@ This project involves analyzing the comment dataset for a YouTube video featurin
 
 ### About the Dataset
 🚀**Source:** The dataset is extracted from the comment section of a YouTube video.
+
 ✨**Size:** The dataset contains several thousand rows, each representing a comment along with related metadata.
+
 ✨**Columns:** The dataset includes the following columns:
 
  * comment_id: Unique identifier for each comment.
@@ -40,28 +42,28 @@ The main goal of this project is to analyze the YouTube comments to extract mean
 
 # Detailed Explanation of the Dashboard Components
 
-## 1. Total Comments, Likes, and Replies
+### 1. Total Comments, Likes, and Replies
  * Total Comments: Displays the total number of comments received on the video.
  * Total Likes on Comments: Shows the aggregate likes received on all comments.
  * Total Replies to Comments: Indicates the number of replies made to the comments.
  * Percentage of Likes on Comments: Represents the ratio of likes to comments, providing a measure of engagement quality.
 
-## 2. Popularity of Artists Mentioned in Comments
+### 2. Popularity of Artists Mentioned in Comments
 This section analyzes how often Chris Brown and Davido are mentioned in the comments compared to other unspecified mentions. It provides insights into which artist is more frequently discussed by the viewers.
 
-## 3. Music Style References in Comments
+### 3. Music Style References in Comments
 This chart identifies the mention of different music styles (like Amapiano, Afrobeat) within the comments. It helps to understand the viewers' perception and discussion about the music genre of the song.
 
-## 4. Viewer with Multiple Comments
+### 4. Viewer with Multiple Comments
 Lists the usernames of viewers who have made multiple comments, highlighting the most engaged users in terms of comment frequency.
 
 ## 5. Comments Activity by Time of Day
 Analyzes the volume of comments posted at different times of the day. This helps in understanding the peak times for viewer engagement.
 
-## 6. Total Comments by Day
+### 6. Total Comments by Day
 Displays the total number of comments received each day, helping to identify specific days with the highest engagement.
 
-## 7. Total Comments Trends
+### 7. Total Comments Trends
 Shows the trend of comments over a period, indicating how engagement changes over time. This is useful for understanding the long-term interaction pattern of the viewers with the video.
 
 #
