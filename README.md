@@ -9,6 +9,11 @@
 ## About the Project
 This project involves analyzing the comment dataset for a YouTube video featuring a collaboration song by Chris Brown and Davido. The primary objective is to derive insightful information from the comments to understand viewer engagement, sentiment, and key discussion points related to the video.
 
+## Dashboard Overview:
+![Screenshot 2024-07-26 232247](https://github.com/user-attachments/assets/dadf6762-c792-4de6-9250-080c9ef7496d)
+
+
+
 ### About the Dataset
 🚀**Source:** The dataset is extracted from the comment section of a YouTube video.
 
